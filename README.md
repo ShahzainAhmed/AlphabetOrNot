@@ -1,5 +1,6 @@
 # Java Program to Check Whether a Character is Alphabet or Not:
 ### In this program, , you'll learn to check whether a given character is an alphabet or not. 
-### This is done using an if else statement or a ternary operator in Java.
-
+### This is done using an if else statement or a ternary operator in Java. 
+ 
+### In Java, char variable stores the ASCII value of a character (number between 0 and 127) rather than the character itself.
 
